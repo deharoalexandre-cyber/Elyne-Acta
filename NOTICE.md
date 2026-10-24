@@ -1,7 +1,19 @@
-# Notice documentaire / Documentation notice
+# Notice de droits / Rights notice
 
-Ce dépôt public présente un produit ; il ne distribue ni code source, ni binaire, ni configuration d'exploitation, ni données d'utilisateur. La publication de ces documents ne confère aucune licence sur le logiciel ou les marques et ne tranche pas la titularité des droits logiciels sous-jacents.
+## Français
 
-This public repository describes a product. It distributes no source code, binary, operational configuration, or user data. Publishing these documents grants no software or trademark license and does not determine ownership of the underlying software rights.
+Cette vitrine est publique pour permettre la consultation de sa documentation et l’utilisation des fonctions de GitHub applicables aux dépôts publics. Les documents restent propriétaires ; tous droits réservés.
 
-Pour une évaluation / For an evaluation: [admin@elynecorp.fr](mailto:admin@elynecorp.fr).
+Au-delà de cette consultation et des droits prévus par les conditions de GitHub, aucun droit de reproduction, d’adaptation, de traduction, de redistribution, de republication, d’intégration, de réemploi ou d’exploitation des textes, schémas et médias n’est concédé sans l’accord écrit préalable des titulaires des droits.
+
+Ce dépôt ne confère aucune licence sur le logiciel, les exécutables, les modèles ou les marques. EIE est un projet distinct régi par sa propre licence open source ; celle-ci ne s’étend pas aux documents ni aux produits présentés ici.
+
+## English
+
+This public showcase permits viewing its documentation and using GitHub features applicable to public repositories. The documents remain proprietary; all rights reserved.
+
+Beyond such viewing and the rights provided under GitHub’s terms, no license or additional permission is granted to reproduce, adapt, translate, redistribute, republish, incorporate, reuse, or otherwise exploit any text, diagram, or media, in whole or in part, without the rights holders’ prior written consent.
+
+This repository grants no license to any software, executable, model, or trademark. EIE is a separate project governed by its own open-source license; that license does not extend to the documents or products presented here.
+
+Pour toute demande d’autorisation / For permission requests: [admin@elynecorp.fr](mailto:admin@elynecorp.fr).
