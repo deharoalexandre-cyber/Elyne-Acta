@@ -3,6 +3,9 @@
 **Langues : Français · [English](README.en.md)**  
 **Statut affiché au catalogue : Preview**
 
+**Documentation propriétaire — tous droits réservés.** Aucun réemploi hors des fonctions de GitHub n'est autorisé sans l'accord écrit des titulaires des droits. [Notice de droits](NOTICE.md).
+[Carte des produits Elyne Corp](https://github.com/deharoalexandre-cyber/deharoalexandre-cyber)
+
 Une application de bureau locale qui relie conversation, mémoire, recherche documentaire et actions outillées, avec traçabilité des opérations.
 
 ## Capacités présentées
