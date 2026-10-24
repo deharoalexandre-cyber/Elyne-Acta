@@ -1,0 +1,8 @@
+# Documentation-only repository: explicitly allow reviewed documents.
+*
+!.gitignore
+!README.md
+!README.en.md
+!NOTICE.md
+!docs/
+!docs/*.md
